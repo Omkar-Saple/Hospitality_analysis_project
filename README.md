@@ -142,12 +142,4 @@ Through this project I learned:
 * Visualizing insights using charts
 * Building an end-to-end data analytics project
 
----
 
-## Author
-
-Manoj Patil
-
-Final Year B.E. Information Technology Student
-
-Interested in Data Analytics, Data Science, Machine Learning, and Full Stack Development.
